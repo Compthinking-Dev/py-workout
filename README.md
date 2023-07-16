@@ -12,5 +12,5 @@ Python Workout: Bitesize Practical Challenges to Sharpen Your Saw
 6. [Functions](https://github.com/Compthinking-Dev/py-workout/blob/main/ch06-functions.ipynb)
 7. Comprehensions
 8. Objects
-9. Iterators
+9. Iterators and Generators
 10. Modules
